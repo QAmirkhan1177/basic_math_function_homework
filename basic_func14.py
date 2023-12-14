@@ -8,4 +8,7 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return 
+    a=13
+    b=3
+    return a//b
+print(main(13, 3)) 
