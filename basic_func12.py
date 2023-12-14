@@ -7,4 +7,6 @@ def main(a):
     Returns:
         float: the result
     '''
-    return
+    a=1.234
+    return a
+print(round(1.234, 2))
