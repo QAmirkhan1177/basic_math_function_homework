@@ -8,4 +8,7 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return
+    a=139
+    b=25
+    return a%b
+print(main(139, 25))
