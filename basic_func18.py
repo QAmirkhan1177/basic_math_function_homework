@@ -7,4 +7,6 @@ def main(a):
     Returns:
         float: the result.
     '''
-    return
+    a=3.14
+    return a
+print(pow(3.14, 2))
